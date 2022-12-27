@@ -1,5 +1,8 @@
+source "https://rubygems.org"
+gemspec
+
 gem "jekyll"
 gem "minimal-mistakes-jekyll"
 
-source "https://rubygems.org"
-gemspec
+gem "jekyll", "~> 3.7"
+gem "minimal-mistakes-jekyll"
